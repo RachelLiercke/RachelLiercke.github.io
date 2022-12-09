@@ -7,3 +7,4 @@ output: html_document
 
 # Rachel Liercke's SMU MSDS website
 ## Thanks for stopping by!
+## New and improved site coming at a later time!
