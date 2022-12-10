@@ -176,8 +176,6 @@ x<-case2%>%group_by(JobRole)%>%
 
 x + scale_fill_hc()
 
-
-  
 ```
 
 ##  of these give us any good trends so we will run a Linear Regression model to determine which factors influence job role the most.
