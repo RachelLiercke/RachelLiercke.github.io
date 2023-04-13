@@ -6,5 +6,5 @@ navbar:
       href: Index.html
     - text: "DDS Case 2"
       href: RachelLierckeCase2.html
-          - text: "Stat 1 Project"
+    - text: "Stat 1 Project"
       href: Final Project.pdf
